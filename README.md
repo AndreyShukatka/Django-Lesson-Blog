@@ -7,6 +7,8 @@
 Для запуска блога у вас уже должен быть установлен Python 3.
 
 - Скачайте код
+- Скачайте Медиа и ДБ по ссылке https://dvmn.org/media/modules_dist/liza-backend-data.zip
+- Положить содержимое архива медиа в основную папку с кодом
 - Установите зависимости командой `pip install -r requirements.txt`
 - Запустите сервер командой `python3 manage.py runserver`
 
